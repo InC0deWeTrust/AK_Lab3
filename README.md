@@ -6,7 +6,7 @@ KEY LIST
   - -l or --list - list of available arguments
   - -n or --name -- current file name
   
-# -h
+# -h(commands)
 Program options: 
 
   -h or --help                          - messages with program options
